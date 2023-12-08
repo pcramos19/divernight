@@ -1,0 +1,74 @@
+[   
+    {
+        "id": "8",
+        "title": "Los comercios de San Agustin se digitalizan.",
+        "fecha":"13/05/2020 12:00",
+        "img": "https://cadenaser00.epimg.net/ser/imagenes/2020/04/20/ser_madrid_norte/1587377163_785227_1587377253_miniatura_normal.jpg",
+        "descripcion":"Ya puedes encontrarlos en la aplicación Miubic, solo necesitas poner la ubicación en San Agustín Del Guadalix. Puedes seguir presumiendo de nuestro preferido #yocomproensanagus...",
+        "medio": "NOVEDADES",
+        "url":"https://www.facebook.com/watch/?v=255817812496354"
+    },
+    {
+        "id": "7",
+        "title": "Para mejorar tus ventas, conoce MiUbic.",
+        "fecha":"11/05/2020 15:00",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTB7l4yGTehtps1h1fN0Ga8dJquBk-zlkLzdBwCu5-lG0ZLZ65R&usqp=CAU",
+        "descripcion":"Hace unos meses se presentó a los comerciantes de Tres Cantos la nueva APP MiUBIC, para comercio y restauración. En ella, tanto Leonard Cerezo como Pablo Arrogante, nos explicaron...",
+        "medio": "ASECATC",
+        "url":"https://asecatc.webnode.es/campanas/mi-ubic/"
+    },
+    {
+        "id": "6",
+        "title": "La ayuda que necesitas durante la cuarentena",
+        "fecha":"06/05/2020 15:00",
+        "img": "https://scontent.fmad10-1.fna.fbcdn.net/v/t1.0-9/p960x960/96136997_2739464649509272_4010785759748423680_o.png?_nc_cat=101&_nc_sid=8024bb&_nc_ohc=4dPcRs7wo70AX__SFQY&_nc_ht=scontent.fmad10-1.fna&oh=11610755c6bc25c32c36ab244eed2c57&oe=5EDFFC57",
+        "descripcion":"Durante la cuarentena ofreceremos nuestra plataforma de manera gratuita para comercios en estado de alarma además de dos meses más posteriores a la finalización de este ... ",
+        "medio": "NOVEDADES",
+        "url":"https://www.facebook.com/Miubic/posts/2739464859509251"
+    },
+    {
+        "id": "5",
+        "title": "Miubic: la digitalización del comercio del barrio",
+        "fecha":"24/04/2020 15:00",
+        "img": "https://carnimad.es/wp-content/uploads/2020/04/1548158553_022208_1548158626_noticia_normal.jpg",
+        "descripcion":"La app Miubic cede su plataforma gratuitamente a los comercios en estos difíciles momentos, para que puedan informar a sus clientes en tiempo real de horarios y servicios....",
+        "medio": "CARNIMAD",
+        "url":"https://carnimad.es/noticias/miubic-la-digitalizacion-del-comercio-del-barrio/?fbclid=IwAR1C_-MHxKnWJ2jYLzDXx9MMqTrtTTRHtxjRG46QAnFU7VoXsSK_IRv587w"
+    },
+    {
+        "id": "4",
+        "title": "Los comercios de Alcorcón siguen contigo",
+        "fecha":"22/04/2020 15:00",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLnZc-tjBlQNhMGEswwuQjU0Npm-6TyZX2qFGQ-qpktgZmXUGW&usqp=CAU",
+        "descripcion":"El estado de alarma continua pero para facilitarte las cosas muchos comercios locales abren sus puertas para que tengas aquello que necesites a tu alcance y puedas ...",
+        "medio": "NOVEDADES",
+        "url":"https://www.facebook.com/Miubic/posts/2695137717275299"
+    },
+    {
+        "id": "3",
+        "title": "El Molar sigue apoyando el comercio local",
+        "fecha":"20/04/2020 15:00",
+        "img": "https://www.finanzas.com/uploads/static/finanzas/logos/logo-1500x1500.jpg",
+        "descripcion":"El Ayuntamiento de El Molar ha creado su propio espacio en la plataforma digital de comercio 'MiUbic', en el que las tiendas de barrio del municipio podrán anunciar...",
+        "medio": "FINANZAS.COM",
+        "url":"https://www.finanzas.com/macroeconomia/el-molar-impulsa-a-sus-comercios-minoristas-con-una-plataforma-digital_13980540_102.html"
+    },
+    {
+        "id": "2",
+        "title": "Más de 30 comercios de El Molar se digitalizan",
+        "fecha":"17/04/2020 15:00",
+        "img": "https://lh3.googleusercontent.com/proxy/QTtkw05koQc6fmWp-FB8l6ROeDfWngl1GwNn-8l84fnHg0UtD4alKOz6fcPY8MjRfZ8AiLD67FYuGZ5e49jngtr8kJ1gxrs5G1EkGHpeFxETTM9yXhbS3g",
+        "descripcion":"La Concejalía de Comercio e Innovación Tecnológica del Ayuntamiento de El Molar ha gestionado la incorporación de los comercios locales a la plataforma digital Miubic...",
+        "medio": "AYTO EL MOLAR",
+        "url":"http://www.elmolar.org/noticias/mas-de-30-comercios-de-el-molar-se-digitalizan-a-traves-de-la-plataforma-miubic/"
+    },
+        {
+        "id": "1",
+        "title": "'MiUbic' impulsa el comercio de El Molar",
+        "fecha":"22/01/2019 15:00",
+        "img": "https://scontent.fmad10-2.fna.fbcdn.net/v/t1.0-9/p960x960/94889305_2721873694601701_388902966460940288_o.png?_nc_cat=103&_nc_sid=8024bb&_nc_ohc=4jLYT-vTjiQAX_1Vv2r&_nc_ht=scontent.fmad10-2.fna&oh=a18881259cd260c82893d82548eb3638&oe=5EDFCE73",
+        "descripcion":"El Ayuntamiento de El Molar ha creado su propio espacio en la plataforma digital de comercio 'MiUbic'. Esta nueva web servirá para que las tiendas de barrio del municipio ...",
+        "medio": "CADENA SER",
+        "url":"https://cadenaser.com/emisora/2019/01/22/ser_madrid_norte/1548158553_022208.html"
+    }
+]

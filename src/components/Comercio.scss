@@ -1,0 +1,233 @@
+.proyects{
+    min-height: 100vh;
+    max-width: 1300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3rem 5rem;
+    
+    h2{
+        font-size: 3rem;
+    }
+
+    .proyects-contain{
+        width: 90%;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        margin-top: 2rem;
+        margin-bottom: 5rem;
+
+        .proyects-text {
+            width: 60%;
+            margin-right: 2rem; 
+            line-height: 1.5rem;
+
+            h3{
+                font-size: 1.5rem;
+                margin-top: 0;
+                margin-right: 2rem;
+            }
+        }
+
+        .proyects-solution{
+            width: 40%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+
+            img{
+                width: 300px;
+            }
+        }
+    }
+
+    .proyects-wrapper-comercio{
+        width: 90%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin-bottom: 2rem;
+
+        video{
+            outline: none;
+            border: none;
+            border-radius: 5px;
+            margin-right: 2rem;
+        }
+
+        .ventajas-comercio{
+            text-align: start;
+            line-height: 1.5rem;
+
+            h3{
+                font-size: 1.5rem;
+                margin-top: 0;
+                margin-right: 2rem;
+            }
+
+            span{
+                font-size: 1rem;
+                font-weight: bold;
+            }
+
+            a{
+                font-size: 1rem;
+                font-weight: bold;
+                color:rgb(213,28,41);
+                text-decoration: none;
+            }
+
+        }  
+    }
+
+    .proyects-capta{
+        width: 90%;
+        background-color: rgb(213,28,41);
+        border-radius: 10px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 5rem;
+        margin-top: 3rem;
+
+        .capta-circulo{
+            width: 33%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin: 1rem;
+
+            svg{
+                color: white;
+                font-size: 5rem;
+            }
+
+            h5{
+                color: white;
+                text-align: center;
+                font-size: 1rem;
+                margin: 1rem;
+            }
+        }
+    }
+
+    .proyects-wrapper{
+        width: 90%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin-bottom: 2rem;
+
+        video{
+            outline: none;
+            border: none;
+            border-radius: 5px;
+        }
+
+        .ventajas{
+            text-align: start;
+            margin-right: 2rem;
+            line-height: 1.5rem;
+            
+            h3{
+                font-size: 1.5rem;
+                margin-top: 0;
+                margin-right: 2rem;
+            }
+
+        }  
+    }
+}
+    @media (max-width: 1200px){
+        .proyects{
+            padding: 2rem 0;
+
+            .proyects-wrapper-comercio{
+                width: 100%;
+                flex-direction: column-reverse;
+                justify-content: center;
+                align-items: center;
+
+                .ventajas-comercio{
+                    width: 90%;
+                    text-align: center;
+                    h3{
+                        font-size: 1.5rem;
+                        margin-right: 0; 
+                        margin-bottom: 2rem;
+                    }
+                }
+
+                video{
+                    width: 90%;
+                    height: 90%;
+                    margin-right: 0;
+                }
+            }
+
+            .proyects-wrapper{
+                width: 100%;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+
+                .ventajas{
+                    width: 90%;
+                    text-align: center;
+                    margin-right: 0;
+
+                    h3{
+                        font-size: 1.5rem;
+                        margin-right: 0; 
+                        margin-bottom: 2rem;
+                    }
+                }
+
+                video{
+                    width: 90%;
+                    height: 90%;
+                }
+            }
+        }
+
+    }
+
+    @media (max-width: 915px) {
+        .proyects{
+            padding: 2rem 0;
+
+            h2{
+                font-size: 2rem; 
+                margin-bottom: 2rem;
+            }
+            .proyects-contain{
+                padding: 0;
+                flex-direction: column;
+
+                .proyects-text {
+                    width: 90%;
+                    margin-right: 0; 
+                    text-align: center;
+                    margin-bottom: 1rem;
+
+                    h3{
+                        margin-right: 0;
+  
+                    }
+                }
+            }
+            .proyects-capta{
+                flex-direction: column;
+                width: 100%;
+                border-radius: 0;
+                margin-bottom: 3rem;
+            }
+ 
+        }
+    }
+
